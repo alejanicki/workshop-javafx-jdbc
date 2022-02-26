@@ -32,11 +32,12 @@ public void start(Stage primaryStage) {
     }
 }
 
-    public static Scene getMaiScene(){
+    public static Scene getMainScene(){
         return mainScene;
     }
-    
+
     public static void main(String[] args) {
         launch(args);
     }
+
 }
